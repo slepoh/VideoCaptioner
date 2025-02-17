@@ -25,7 +25,7 @@ os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 # 设置自定义样式
 st.set_page_config(
-    page_title="卡卡字幕助手",
+    page_title="字幕助手",
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -426,7 +426,7 @@ def main():
     # 侧边栏设计
     st.sidebar.markdown(
         """
-    # 🎥 卡卡字幕助手
+    # 🎥 字幕助手
     ---
     ### 🛠️ 功能列表
     """
