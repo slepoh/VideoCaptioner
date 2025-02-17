@@ -7,10 +7,10 @@ YEAR = 2025
 APP_NAME = "VideoCaptioner"
 AUTHOR = "Weifeng"
 
-HELP_URL = "https://github.com/WEIFENG2333/VideoCaptioner"
-GITHUB_REPO_URL = "https://github.com/WEIFENG2333/VideoCaptioner"
-RELEASE_URL = "https://github.com/WEIFENG2333/VideoCaptioner/releases/latest"
-FEEDBACK_URL = "https://github.com/WEIFENG2333/VideoCaptioner/issues"
+HELP_URL = "https://github.com/slepoh/VideoCaptioner"
+GITHUB_REPO_URL = "https://github.com/slepoh/VideoCaptioner"
+RELEASE_URL = "https://github.com/slepoh/VideoCaptioner/releases/latest"
+FEEDBACK_URL = "https://github.com/slepoh/VideoCaptioner/issues"
 
 # 路径
 ROOT_PATH = Path(__file__).parent
