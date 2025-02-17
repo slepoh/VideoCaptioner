@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./docs/images/logo.png"alt="VideoCaptioner Logo" width="100">
-  <p>卡卡字幕助手</p>
+  <p>字幕助手</p>
   <h1>VideoCaptioner</h1>
   <p>一款基于大语言模型(LLM)的视频字幕处理助手，支持语音识别、字幕断句、优化、翻译全流程处理</p>
 
@@ -10,7 +10,7 @@
 
 ## 📖 项目介绍
 
-卡卡字幕助手（VideoCaptioner）操作简单且无需高配置，支持网络调用和本地离线（支持调用GPU）两种方式进行语音识别，利用可用通过大语言模型进行字幕智能断句、校正、翻译，字幕视频全流程一键处理！为视频配上效果惊艳的字幕。
+字幕助手（VideoCaptioner）操作简单且无需高配置，支持网络调用和本地离线（支持调用GPU）两种方式进行语音识别，利用可用通过大语言模型进行字幕智能断句、校正、翻译，字幕视频全流程一键处理！为视频配上效果惊艳的字幕。
 
 最新版本已经支持 VAD 、 人声分离、 字级时间戳 批量字幕等实用功能
 
@@ -77,7 +77,7 @@ brew install python@3.**
 
 2. 克隆项目
 ```bash
-git clone https://github.com/WEIFENG2333/VideoCaptioner.git
+git clone https://github.com/slepoh/VideoCaptioner.git
 cd VideoCaptioner
 ```
 
@@ -102,7 +102,7 @@ python main.py
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/WEIFENG2333/VideoCaptioner.git
+git clone https://github.com/slepoh/VideoCaptioner.git
 cd VideoCaptioner
 
 ```
